@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "706803453355",
+    "firebase_url": "https://ecommerce-jersey.firebaseio.com",
+    "project_id": "ecommerce-jersey",
+    "storage_bucket": "ecommerce-jersey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706803453355:android:3f1f24703f917f518396ee",
+        "android_client_info": {
+          "package_name": "com.example.jerseypoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706803453355-3grajrggbsh86k7dt0n6n91k1nignrcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jerseypoint",
+            "certificate_hash": "3b76cdc130e1afde8df9b1d1c49e320f4b95efee"
+          }
+        },
+        {
+          "client_id": "706803453355-cf5rca96s3mtupgdb210ceorgq20h6qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUjbR8Uzvt7BJNMRA34alHKU1etgSLZFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706803453355-cf5rca96s3mtupgdb210ceorgq20h6qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
